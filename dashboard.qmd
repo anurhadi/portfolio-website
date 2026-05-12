@@ -1,0 +1,40 @@
+# Campus Product Launch Performance Dashboard
+
+This dashboard shows how marketing performance could be measured for my campus product launch project. The purpose is to evaluate customer interest, sales performance, and campaign effectiveness.
+
+## Key Performance Metrics
+
+| Metric | Sample Result |
+|---|---:|
+| Students approached | 40 |
+| Interested students | 26 |
+| Products sold | 18 |
+| Conversion rate | 45% |
+| Total revenue | $54 |
+
+## Sales Funnel
+
+| Stage | Number of Students |
+|---|---:|
+| Students approached | 40 |
+| Interested students | 26 |
+| Products sold | 18 |
+
+## Customer Feedback
+
+| Feedback Category | Percentage |
+|---|---:|
+| Useful | 40% |
+| Affordable | 30% |
+| Convenient | 20% |
+| Other | 10% |
+
+## Dashboard Insights
+
+The sample dashboard suggests that the product attracted interest from many students. Out of 40 students approached, 18 purchased the product, resulting in a sample conversion rate of 45%.
+
+The feedback also shows that students responded most positively to the product’s usefulness and affordability. These insights suggest that future marketing messages should focus on practical value and price.
+
+## Marketing Takeaway
+
+This dashboard demonstrates how basic marketing data can help evaluate performance and guide future decisions. By tracking customer interest, sales, and feedback, marketers can better understand what motivates customers to purchase.

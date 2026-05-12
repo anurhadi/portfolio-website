@@ -1,0 +1,17 @@
+{
+  "index.qmd": {
+    "index.html": "a76b6e95"
+  },
+  "marketing-projects.qmd": {
+    "marketing-projects.html": "f335aede"
+  },
+  "dashboard.qmd": {
+    "dashboard.html": "1f5dd413"
+  },
+  "analytics.qmd": {
+    "analytics.html": "a261d6ad"
+  },
+  "presentation.qmd": {
+    "presentation.html": "6446a652"
+  }
+}

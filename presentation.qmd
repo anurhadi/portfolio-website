@@ -1,0 +1,31 @@
+---
+title: "Marketing Project Presentation"
+format: revealjs
+---
+
+## Campus Product Launch
+
+A marketing project focused on creating and selling a product for students on campus.
+
+---
+
+## Objective
+
+- Identify student needs
+- Create a useful product
+- Sell directly to students
+- Learn from customer feedback
+
+---
+
+## Marketing Strategy
+
+- Target audience: college students
+- Promotion method: face-to-face selling
+- Message: usefulness and convenience
+
+---
+
+## Key Takeaways
+
+This project helped me understand audience insights, customer behavior, and real-world sales communication.

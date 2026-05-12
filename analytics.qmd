@@ -1,0 +1,50 @@
+# Google Analytics
+
+This page explains how Google Analytics can be used to measure website performance and understand visitor behavior.
+
+## Purpose of Google Analytics
+
+Google Analytics helps marketers track how people find and interact with a website. For a portfolio website, this information can show which pages attract the most attention and how visitors move through the site.
+
+## Metrics I Would Track
+
+| Metric | Why It Matters |
+|----|----|
+| Page views | Shows which pages are being visited |
+| Traffic sources | Shows where visitors came from |
+| Engagement rate | Shows how actively visitors interact with the site |
+| Average engagement time | Shows how long visitors spend on pages |
+| Most visited pages | Shows which content is most effective |
+
+## Application to My Portfolio
+
+For this portfolio website, I would use Google Analytics to understand whether visitors are engaging with my professional profile, project page, dashboard, and presentation.
+
+The most important pages to track would be:
+
+- Home page
+- Marketing Projects page
+- Dashboard page
+- Presentation page
+
+## Example Insights
+
+If the Marketing Projects page receives the most views, that may suggest visitors are most interested in my project experience.
+
+If visitors leave quickly from the Home page, I may need to improve the introduction, layout, or call-to-action.
+
+If the Dashboard page receives strong engagement, that may show that visitors are interested in my marketing analytics skills.
+
+## Marketing Takeaway
+
+Google Analytics allows marketers to make data-driven improvements. By reviewing website traffic and engagement data, I can improve my portfolio and better understand what content is most valuable to visitors.
+
+## Google Analytics Certification
+
+I have completed the Google Analytics 4 (GA4) certification, which demonstrates my understanding of website tracking, user behavior analysis, and marketing performance metrics.
+
+:::: {style="text-align: center;"}
+::: {style="text-align: center;"}
+<img src="GA4_Certification.png" width="500"/>
+:::
+::::

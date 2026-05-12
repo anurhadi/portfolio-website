@@ -1,0 +1,47 @@
+# Marketing Projects
+
+## Campus Product Launch & Sales Campaign
+
+### Overview
+This project involved working with a group to create a product designed to help students on campus. After developing the product idea, our team brought it to school and sold it directly to students in front of the classroom.
+
+### Objective
+The goal was to apply marketing concepts in a real selling environment by identifying student needs, presenting the product, and interacting with potential customers.
+
+### Target Audience
+Our target audience was college students who could benefit from a useful and convenient campus product.
+
+### My Role
+- Helped develop the product idea
+- Participated in planning the sales approach
+- Communicated with student customers
+- Observed customer reactions and feedback
+
+### Marketing Strategy
+Our strategy focused on direct selling and face-to-face communication. We explained the product’s value, answered questions, and adjusted our approach based on how students responded.
+
+### What I Learned
+This project helped me understand how important audience insights, product positioning, and communication are in marketing. It also showed me how customer feedback can influence marketing decisions in real time.
+
+---
+
+## Social Media Engagement Analysis
+
+### Overview
+This project focuses on analyzing social media engagement to understand what type of content performs best.
+
+### Objective
+- Analyze engagement metrics (likes, comments, shares)
+- Identify high-performing content
+- Suggest improvements for future posts
+
+### Tools
+- Excel / Google Sheets
+
+### Insights
+- Posts with visuals tend to perform better
+- Engagement increases when content is relatable to students
+- Timing of posts affects performance
+
+### Takeaway
+This project strengthened my ability to interpret data and apply insights to improve marketing strategies.

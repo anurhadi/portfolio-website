@@ -3,6 +3,8 @@ project:
 
 website:
   title: "Ari Nurhadi Portfolio"
+  site-url: "https://anurhadi.github.io/portfolio-website/"
+  description: "Marketing portfolio showcasing digital marketing and analytics projects"
   navbar:
     left:
       - href: index.qmd
